@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Swaneki!
-- 👀 I’m interested in coding, yuh.
-- 🌱 I’m currently learning the hobbies I love, e
-- 💞️ I’m looking to collaborate on idk?
-- 📫 How to reach me: haha no.
+i don't even know how github works...
 
 <!---
 Swaneki/Swaneki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
